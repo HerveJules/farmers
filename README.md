@@ -1,2 +1,0 @@
-# farmers
-farmer communication protocol
