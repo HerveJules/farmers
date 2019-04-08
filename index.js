@@ -1,2 +1,4 @@
 # serve controller js file
-console.log("Hello World")
+console.log("Hello");
+let name="herve";
+console.log(name);
