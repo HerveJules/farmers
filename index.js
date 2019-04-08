@@ -1,0 +1,1 @@
+# serve controller js file
