@@ -8,3 +8,7 @@ console.log('this is for test')
  *
  *
  */
+
+
+let num = 23
+console.log(`i am ${num} years old`)
