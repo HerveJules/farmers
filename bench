@@ -1,7 +1,12 @@
 let's check
 with arguments
 alot of changes
+<<<<<<< HEAD
 master branch reverting test
 
 reminding amend commit
 check
+=======
+
+branch testing 
+>>>>>>> testing
